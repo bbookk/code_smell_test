@@ -10,9 +10,12 @@
     <name>uglycode</name>
     <url>http://maven.apache.org</url>
 
+    
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
+  <sonar.projectKey>bbookk_code_smell_test</sonar.projectKey>
+  <sonar.organization>bbookk</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
     <dependencies>
 
